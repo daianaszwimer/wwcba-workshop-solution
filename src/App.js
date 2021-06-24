@@ -13,7 +13,7 @@ import Lala from "./modules/lala/Lala";
 
 function App() {
   return (
-    <Router>
+    <Router basename="/wwcba-workshop-solution">
     <div>
       <Header/>
       <div className='content'>
