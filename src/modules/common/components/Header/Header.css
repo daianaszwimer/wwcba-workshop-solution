@@ -1,0 +1,53 @@
+header {
+    display: flex;
+    align-items: center;
+    height: 170px;
+    padding: 0 70px;
+}
+
+header ul {
+    list-style-type: none;
+    padding: 0;
+    margin: 0;
+}
+
+header > nav > ul > li {
+    display: flex;
+}
+
+header > nav > ul {
+    margin: 0 70px;
+}
+
+header > nav {
+    display: flex;
+}
+
+.name-wrapper {
+    height: 105px;
+    width: 125px;
+    display: flex;
+    align-items: center;
+}
+
+.name {
+    --base-shadow: 1px;
+    font-size: 3rem;
+    color: #fcedd8;
+    font-family: 'Niconne', cursive;
+    font-weight: 700;
+    text-decoration: none;
+    text-shadow: var(--base-shadow) var(--base-shadow) 0 var(--color-orange),
+    calc(var(--base-shadow) + 1px) calc(var(--base-shadow) + 1px) 0 var(--color-yellow),
+    calc(var(--base-shadow) + 2px) calc(var(--base-shadow) + 2px) 0 var(--color-light-green),
+    calc(var(--base-shadow) + 3px) calc(var(--base-shadow) + 3px) 0 var(--color-green),
+    calc(var(--base-shadow) + 4px) calc(var(--base-shadow) + 4px) 0 var(--color-dark-green),
+    calc(var(--base-shadow) + 5px) calc(var(--base-shadow) + 5px) 0 var(--color-red),
+    calc(var(--base-shadow) + 6px) calc(var(--base-shadow) + 6px) 0 var(--color-red),
+    calc(var(--base-shadow) + 7px) calc(var(--base-shadow) + 7px) 0 var(--color-red),
+    calc(var(--base-shadow) + 8px) calc(var(--base-shadow) + 8px) 0 var(--color-red);
+    transform: rotate(342deg);
+    position: relative;
+    top: 0;
+    left: 0;
+}

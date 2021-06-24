@@ -1,0 +1,8 @@
+.nav-icon:hover {
+    fill: #000;
+}
+
+.nav-icon {
+    fill: rgb(188, 190, 192);
+    transition: all .1s ease-in;
+}

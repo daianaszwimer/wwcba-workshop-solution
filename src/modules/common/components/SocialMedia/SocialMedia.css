@@ -1,0 +1,21 @@
+.social-media-wrapper {
+    width: 55px;
+    margin: 0 25px 0 15px;
+}
+
+.social-media-list {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+.social-media-list > li:not(:last-child) {
+    margin-bottom: 20px;
+}
+
+nav > ul {
+    list-style: none;
+    padding: 0;
+    margin: 0;
+}
