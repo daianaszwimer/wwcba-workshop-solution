@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/wwcba-workshop-solution/static/css/main.464621c8.chunk.css",
-    "main.js": "/wwcba-workshop-solution/static/js/main.3c7d8b80.chunk.js",
-    "main.js.map": "/wwcba-workshop-solution/static/js/main.3c7d8b80.chunk.js.map",
+    "main.js": "/wwcba-workshop-solution/static/js/main.dd959c69.chunk.js",
+    "main.js.map": "/wwcba-workshop-solution/static/js/main.dd959c69.chunk.js.map",
     "runtime-main.js": "/wwcba-workshop-solution/static/js/runtime-main.a9109689.js",
     "runtime-main.js.map": "/wwcba-workshop-solution/static/js/runtime-main.a9109689.js.map",
     "static/js/2.28f4b20c.chunk.js": "/wwcba-workshop-solution/static/js/2.28f4b20c.chunk.js",
@@ -29,6 +29,6 @@
     "static/js/runtime-main.a9109689.js",
     "static/js/2.28f4b20c.chunk.js",
     "static/css/main.464621c8.chunk.css",
-    "static/js/main.3c7d8b80.chunk.js"
+    "static/js/main.dd959c69.chunk.js"
   ]
 }
